@@ -36,7 +36,7 @@ pip install numpy opencv-python matplotlib
    ```bash
    git clone https://github.com/rmodregoe/stereo-disparity-mapping.git
    ```
-2. Open `PS2_code.ipynb` in Jupyter Notebook.
+2. Open `stereo_analysis.ipynb` in Jupyter Notebook.
 3. Follow the instructions to execute the code and visualize the results.
 
 ## Results
